@@ -1,3 +1,4 @@
+![alt text](https://github.com/ecocity-coder/Categories/blob/main/2024-05-07_10-33-51.png)
 # store
 Анализ продаж в интернет-магазине
 
