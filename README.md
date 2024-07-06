@@ -1,4 +1,4 @@
-![alt text](https://github.com/ecocity-coder/Categories/blob/main/2024-07-06_22-33-06.png)
+2024-07-06_22-33-06.png![alt text](https://github.com/ecocity-coder/Categories/blob/main/2024-07-06_22-33-06.png)
 # store
 Анализ продаж в интернет-магазине
 
